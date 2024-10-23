@@ -8,12 +8,13 @@ Flask-Bcrypt==1.0.1
 Flask-Cors==5.0.0
 Flask-JWT-Extended==4.6.0
 Flask-RESTful==0.3.10
+Flask-SQLAlchemy==3.1.1
 greenlet==3.1.1
 gunicorn==23.0.0
 inflection==0.5.1
 itsdangerous==2.2.0
 Jinja2==3.1.4
-MarkupSafe==3.0.1
+MarkupSafe==3.0.2
 mypy-extensions==1.0.0
 packaging==24.1
 psycopg2-binary==2.9.9
