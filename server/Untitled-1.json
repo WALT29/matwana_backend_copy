@@ -1,0 +1,38 @@
+{
+    "user_id":"2",
+    "description":"Maize flour",
+    "tracking_number":"ABCZ456",
+    "weight":45,
+    "status":"pending",
+    "sender_id" : 1,  
+    "recipient_id" : 3,
+    "location_id":1,  
+    "vehicle_id":1  
+}
+
+{
+    "name":"David Irungu",
+    "phone_number":"0729448447",
+    "email":"dave@irngu",
+    "password":"qweerty2",
+    "role":"customer"
+
+}
+
+{
+    "origin":"Nairobi",
+    "destination":"Kisumu",
+    "cost_per_kg":100,
+}
+
+{
+    "number_plate":"KCA 431M",
+    "capacity":4500,
+    "driver_name":"Ngure",
+    "driver_phone":"0712345678",
+    "departure_time":"7.00",
+    "expected_arrival_time" : "10:00",  
+    "status" : "empty",
+    "location_id":2   
+}
+
